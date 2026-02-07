@@ -1,7 +1,7 @@
 ---
 title: Gate
 ---
-# *Welcome to my Digital Garden!*
+# *bonjour!*
 
 
 ---
@@ -9,27 +9,24 @@ title: Gate
 
 # About
 
-Nirjhor here! <br>
-Currently going through the ugly chaos of Computer Science undergrad in a so called top Private University in Bangladesh! <br>
-Really trying not to lose myself in the blackhole of trivialities by indulging in Reading, Writing, Music and so! <br>
-Welcome to my digital space. <br>
-Unto a great journey ahead, here we go!
-
-
-
+**Hello, wanderer — Nirjhor here.**<br>  
+Currently navigating the ugly chaos of a Computer Science undergrad at a so-called top private university in Bangladesh.<br>  
+Trying not to lose myself to the black hole of trivialities by indulging in reading, writing, music, cinema, and quiet reflection.<br>  
+This is my shrine for thoughts.<br>  
+Unto a long journey ahead — here we go.
 
 
 ---
 
 
-## Recent Writing
+## Recent Wonderings
 - [[He is Mystic!]]
 
 
 ---
 
 
-## Poetry
+## Verses
 - [[Diluted Eyes]]
 
 
