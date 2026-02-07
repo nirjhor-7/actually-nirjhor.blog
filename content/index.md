@@ -12,4 +12,5 @@ this time!!!
 
 
 ## Whimsical Wonderings
-- [[He is Mystic!]]
+- [[Diluted Eyes]]
+- 
