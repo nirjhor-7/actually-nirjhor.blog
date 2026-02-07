@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Nirjhor's Garden",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,38 +16,38 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "actually-nirjhor.blog",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Space Grotesk",
+        body: "Space Grotesk",
+        code: "Space Grotesk",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#EFECE3",       // Your Cozy Background
+          lightgray: "#D4D1C8",   // Subtle borders (Derived from BG)
+          gray: "#4A70A9",        // Meta text (Your Dark Blue)
+          darkgray: "#000000",    // Body text (Black)
+          dark: "#000000",        // Headers (Black)
+          secondary: "#4A70A9",   // Links (Your Dark Blue)
+          tertiary: "#8FABD4",    // Accents (Your Light Blue)
+          highlight: "rgba(143, 171, 212, 0.15)", // Soft Blue Highlight
           textHighlight: "#fff23688",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#0a0a0a",       // Deep Space Black
+          lightgray: "#1f1f1f",   // Dark borders
+          gray: "#8FABD4",        // Meta text (Your Light Blue)
+          darkgray: "#EFECE3",    // Body text (Your Beige - High Contrast)
+          dark: "#ffffff",        // Headers (White)
+          secondary: "#8FABD4",   // Links (Your Light Blue)
+          tertiary: "#4A70A9",    // Accents (Your Dark Blue)
+          highlight: "rgba(143, 171, 212, 0.15)",
           textHighlight: "#b3aa0288",
         },
       },
@@ -88,7 +88,6 @@ const config: QuartzConfig = {
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
       Plugin.CustomOgImages(),
     ],
   },
