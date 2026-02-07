@@ -1,2 +1,1 @@
-Hello wanderer!
-CAN YOU SEE ME?
+Hello world!

@@ -6,9 +6,9 @@ title:
 
 # About
 
-Nirjhor here!
-Currently going through the ugly chaos of Computer Science degree in a so called top Private University in Bangladesh!
-Really trying not to lose myself in the blackhole of trivialities by indulging in Reading, Writing, Music and so!
+Nirjhor here! <br>
+Currently going through the ugly chaos of Computer Science degree in a so called top Private University in Bangladesh! <br>
+Really trying not to lose myself in the blackhole of trivialities by indulging in Reading, Writing, Music and so! <br>
 Welcome to my digital space!
 
 
