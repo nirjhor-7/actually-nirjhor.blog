@@ -5,23 +5,23 @@ tags:
   -
 ---
  
-## Bleed my paraselene,
+Bleed my paraselene,
 
-## On my diverged thrones.
+On my diverged thrones.
 
-## Tears in red,
+Tears in red,
 
-## Burning ashes.
+Burning ashes.
 
-## Moonlit scream
+Moonlit scream
 
-## Icarus dancing on
+Icarus dancing on
 
-## The bloody crescent.
+The bloody crescent.
 
-## Fall I down.
+Fall I down.
 
 
-*nirjhor*
-*feni*
+*nirjhor* <br>
+*feni* <br>
 *6th February, 2026*
