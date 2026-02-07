@@ -1,7 +1,10 @@
 ---
-title: 
+title: Gate
 ---
 # *Welcome to my Digital Garden!*
+
+
+---
 
 
 # About
@@ -16,12 +19,20 @@ Unto a great journey ahead, here we go!
 
 
 
+---
 
+
+## Recent Writing
+- [[He is Mystic!]]
+
+
+---
 
 
 ## Poetry
 - [[Diluted Eyes]]
 
-## Recent Writing
-- [[He is Mystic!]]
+
+--------
+
 
