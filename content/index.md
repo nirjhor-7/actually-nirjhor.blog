@@ -7,7 +7,7 @@ title: Gate
 ---
 
 
-# About
+# About Me
 
 **Hello, wanderer — Nirjhor here.**<br>  
 Currently navigating the ugly chaos of a Computer Science undergrad at a so-called top private university in Bangladesh.<br>  
@@ -20,7 +20,9 @@ Unto a long journey ahead — here we go.
 
 
 ## Recent Wonderings
+- [[Breath]]
 - [[He is Mystic!]]
+
 
 
 ---
