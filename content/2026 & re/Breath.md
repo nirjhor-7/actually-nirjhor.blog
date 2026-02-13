@@ -19,21 +19,21 @@ About Marty Supreme, its unpredictable and not the sports movie! Haven't watched
 Next OSCAR line up for Best Actor is crazy. Leo Dicaprio, Ethan Hawke, Michael B. Jordan! 
 Good luck to Chalamet! <br>
 Phew! <br>
-I will be watching 'Hamnet' next! Jessie Buckley is appreciated world-wide for her spectacular portrayal of  Agnes Shakespeare! <br>
-Jumping back and forth in the pages of 'Mistborn' by Brandon Sanderson. <br>
+I will be watching 'Hamnet' next! Jessie Buckley is appreciated world-wide for her spectacular portrayal of  Agnes Shakespeare! Can't wait to savor that!<br>
+
+Also, Jumping back and forth (Not a regular reader at all, but into too many books all at once) in the pages of 'Mistborn' by Brandon Sanderson. <br>
 'The War of Art' by Steven Pressfield. <br>
 'Five Minds for the Future' by Howard Gardner. <br>
-and some few others but mostly this three. <br>
+and some few others but mostly these three. <br>
 I have finished 'Three Days of Happiness' by Sugaru Miaki, might write something about that novel someday (hopefully). <br>
-
 
 
 As of now, time to cram for Mid-term.<br> 
 Good luck orbiting around the world stranger! <br>
 See you around.<br>
 x<br>
-Nirjhor<br>
+*Nirjhor*<br>
 13.06.2026 <br>
 . <br>
 .<Br>
-P.S started writing this on 12th February and zoned out and then today (feb-13) finished the thing. <Br>
+*P.S started writing this on 12th February and zoned out and then today (feb-13) finished the thing.* <Br>
