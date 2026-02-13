@@ -19,7 +19,8 @@ About Marty Supreme, its unpredictable and not the sports movie! Haven't watched
 Next OSCAR line up for Best Actor is crazy. Leo Dicaprio, Ethan Hawke, Michael B. Jordan! 
 Good luck to Chalamet! <br>
 Phew! <br>
-I will be watching 'Hamnet' next! Jessie Buckley is appreciated world-wide for her spectacular portrayal of  Agnes Shakespeare! Can't wait to savor that!<br>
+Finished watching "Invincible (S1)"; whoa! Bow chicka bow bow!; exact reaction of mine. Absolute ruthless finale and what's next? More chaos perhaps? S2, S3 in list now. Let's see when can I finish those. <br>
+As for my next movie, I will be watching 'Hamnet' next! One of the best movies from last year(2025) that I missed! Jessie Buckley is appreciated world-wide for her spectacular portrayal of  Agnes Shakespeare! and she deserves all the praises for her exquisite work. Can't wait to savor that!<br>
 
 Also, Jumping back and forth (Not a regular reader at all, but into too many books all at once) in the pages of 'Mistborn' by Brandon Sanderson. <br>
 'The War of Art' by Steven Pressfield. <br>
