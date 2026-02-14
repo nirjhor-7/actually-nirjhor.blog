@@ -1,8 +1,10 @@
 Been sick for awhile. Recovering well I would say. I've been back to home for a week now, almost time to leave. Time to go back to dormitory. Time to return to cage. Happy that I have my own digital space now. I am looking forward to writing on a regular basis. To improve and to articulate my thoughts. My midterm is knocking at the door. Tri-mester is chaotic. No time to breath; one day class test, another day assignment, lab report this that; and all of a sudden Mid-term and finals. It's crazy! such is life? <br>
+reminder? 
 
 ''Gotta keep moving forward anyway!" <br>
 "Snap back to reality! (mystic!)"<br>
-"breath-hold-exhale"<br>
+"breath-hold-exhale" <br>
+
 About my cineventure and melomania? <br>
 
 I've been listening to Arctic Monkey's new single [Opening Night](https://youtu.be/6lkS-MCenXI?si=0jwJOsORJH3MboEE) on loop for awhile. <br>
