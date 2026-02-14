@@ -1,0 +1,34 @@
+#starry-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+  z-index: -1;
+  background: linear-gradient(135deg, #0a1a3f 0%, #1a0a2e 50%, #0f0f1e 100%);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+:root[saved-theme="dark"] #starry-background {
+  opacity: 1;
+}
+.star {
+  position: absolute;
+  background: radial-gradient(circle, rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.3));
+  border-radius: 50%;
+  box-shadow: 0 0 2px rgba(255, 255, 255, 0.5), 0 0 4px rgba(135, 206, 250, 0.3);
+  filter: blur(0.5px);
+}
+@keyframes twinkle {
+  0%, 100% { opacity: 0.5; }
+  50% { opacity: 1; }
+}
+.star {
+  animation: twinkle 3s ease-in-out infinite;
+}
+@supports (font-family: "Space Grotesk") {
+  body {
+    font-family: "Space Grotesk", system-ui, sans-serif;
+  }
+}
