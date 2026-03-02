@@ -5,6 +5,5 @@ tags:
   -
 ---
 
-	mail : hasan.nirjhor2005@gmail.com
-
+	mail : hasan.nirjhor@yahoo.com
 
