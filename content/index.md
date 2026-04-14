@@ -20,6 +20,7 @@ Unto a long journey ahead — here we go.
 
 
 ## Recent Wonderings
+- [[Eid Mubarak!]]
 - [[When]]
 - [[Breath]]
 - [[He is Mystic!]]
@@ -31,6 +32,7 @@ Unto a long journey ahead — here we go.
 
 ## Verses
 - [[Diluted Eyes]]
+- [[]]
 - [[Well, Iris]]
 
 
