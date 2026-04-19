@@ -4,9 +4,7 @@ import styles from "./styles/starrybackground.scss"
 import { QuartzComponent, QuartzComponentConstructor } from "./types"
 
 const StarryBackground: QuartzComponent = () => {
-  return (
-    <div id="starry-background" />
-  )
+  return <div id="starry-background" />
 }
 
 StarryBackground.beforeDOMLoaded = starryScript

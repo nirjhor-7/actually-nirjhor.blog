@@ -55,14 +55,14 @@ const PrevNext: QuartzComponent = ({ fileData, allFiles }: QuartzComponentProps)
   return (
     <nav class="prev-next-nav" aria-label="Note navigation">
       {newer ? (
-        <a class="internal prev-link" href={resolveRelative(currentSlug, newer.slug)}>
+        <a class="internal prev-link" href={resolveRelative(currentSlug, newer.slug as any)}>
           ← {newer.title}
         </a>
       ) : (
         <span />
       )}
       {older ? (
-        <a class="internal next-link" href={resolveRelative(currentSlug, older.slug)}>
+        <a class="internal next-link" href={resolveRelative(currentSlug, older.slug as any)}>
           {older.title} →
         </a>
       ) : (
