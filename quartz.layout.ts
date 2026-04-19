@@ -18,7 +18,10 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
+    Component.ConditionalRender({
+      component: Component.ContentMeta(),
+      condition: (page) => page.fileData.frontmatter?.title !== "All wonderings",
+    }),
     Component.TagList(),
   ],
   left: [
@@ -31,7 +34,13 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      title: "",
+      folderDefaultState: "open",
+      folderClickBehavior: "link",
+      useSavedState: false,
+      filterFn: (node) => node.slugSegment !== "tags" && node.slugSegment !== "All-Notes",
+    }),
   ],
   right: [
     Component.Graph(),
@@ -45,7 +54,10 @@ export const defaultListPageLayout: PageLayout = {
     Component.StarryBackground(),
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
+    Component.ConditionalRender({
+      component: Component.ContentMeta(),
+      condition: (page) => page.fileData.frontmatter?.title !== "All wonderings",
+    }),
   ],
   left: [
     Component.PageTitle(),
@@ -56,7 +68,13 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      title: "",
+      folderDefaultState: "open",
+      folderClickBehavior: "link",
+      useSavedState: false,
+      filterFn: (node) => node.slugSegment !== "tags" && node.slugSegment !== "All-Notes",
+    }),
   ],
   right: [],
 }

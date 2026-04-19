@@ -122,6 +122,9 @@ export default ((userOpts?: Partial<Options>) => {
         <div id={id} class="explorer-content" aria-expanded={false} role="group">
           <OverflowList class="explorer-ul" />
         </div>
+        <a class="explorer-see-more internal" href="/All-Notes">
+          See more →
+        </a>
         <template id="template-file">
           <li>
             <a href="#"></a>

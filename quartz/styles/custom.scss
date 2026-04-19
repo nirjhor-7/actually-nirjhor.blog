@@ -1,3 +1,178 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Minimal dark, editorial styling.
+:root {
+  --ui-search-border: color-mix(in srgb, var(--gray) 20%, transparent);
+  --ui-link: color-mix(in srgb, var(--secondary) 82%, #9ab3da 18%);
+}
+
+:root[saved-theme="dark"] {
+  --ui-search-border: rgba(134, 156, 193, 0.22);
+  --ui-link: #5679ad;
+}
+
+body {
+  background-image:
+    radial-gradient(circle at 70% -20%, rgba(78, 110, 160, 0.16) 0%, transparent 52%),
+    linear-gradient(180deg, rgba(6, 10, 20, 0.94), rgba(5, 8, 16, 0.96));
+}
+
+.page .center > .popover-hint {
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  padding: 0;
+}
+
+.page .sidebar {
+  gap: 0.8rem;
+}
+
+.page .sidebar > * {
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  padding: 0;
+}
+
+.page .sidebar > .search,
+.page .sidebar > .darkmode,
+.page .sidebar > .reader-mode {
+  padding: 0;
+  background: transparent;
+  border: none;
+  box-shadow: none;
+}
+
+.darkmode {
+  display: none !important;
+}
+
+.search > .search-button,
+button.mobile-explorer,
+button.desktop-explorer {
+  border-radius: 4px;
+  transition:
+    background-color 180ms ease,
+    border-color 180ms ease,
+    transform 180ms ease;
+}
+
+.search > .search-button {
+  border: 1px solid var(--ui-search-border);
+  background: rgba(9, 14, 24, 0.22);
+}
+
+.search > .search-button:hover,
+button.mobile-explorer:hover,
+button.desktop-explorer:hover {
+  background-color: rgba(71, 99, 144, 0.14);
+  transform: none;
+}
+
+a.internal {
+  text-decoration: none;
+  text-underline-offset: 2px;
+  color: var(--ui-link);
+  transition:
+    color 160ms ease,
+    background-color 160ms ease;
+}
+
+.section-ul > .section-li > .section,
+.recent-ul > .recent-li > .section {
+  border: none;
+  border-radius: 0;
+  padding: 0;
+  background: transparent;
+  transition: opacity 180ms ease;
+}
+
+.section-ul > .section-li > .section:hover,
+.recent-ul > .recent-li > .section:hover {
+  transform: none;
+  box-shadow: none;
+  opacity: 0.92;
+}
+
+blockquote {
+  border-left-width: 4px;
+  border-radius: 0;
+  background: color-mix(in srgb, var(--light) 94%, var(--highlight));
+  padding: 0.8rem 1rem;
+}
+
+pre,
+code {
+  border-radius: 0;
+}
+
+*:focus-visible {
+  outline: none;
+}
+
+@media all and (max-width: 800px) {
+  .page .center > .popover-hint {
+    padding: 1rem 0.9rem;
+  }
+
+  .page .sidebar > * {
+    padding: 0;
+  }
+}
+
+/* Show explorer content as a plain list, without explorer UI chrome. */
+.explorer {
+  gap: 0.25rem;
+}
+
+.explorer > .explorer-toggle {
+  display: none !important;
+}
+
+.explorer .folder-icon {
+  display: none;
+}
+
+.explorer .explorer-content {
+  margin-top: 0;
+  overflow-y: auto;
+  max-height: 19rem;
+}
+
+.explorer .folder-outer {
+  visibility: visible;
+  grid-template-rows: 1fr;
+}
+
+.explorer .folder-outer > ul {
+  margin-left: 0;
+  padding-left: 0.8rem;
+  border-left: none;
+}
+
+.explorer .folder-container {
+  margin: 0.2rem 0;
+}
+
+.explorer .folder-container > div > button {
+  cursor: default;
+}
+
+.explorer .explorer-see-more {
+  display: inline-flex;
+  align-items: center;
+  margin-top: 0.55rem;
+  padding: 0;
+  border: none;
+  background: transparent;
+  color: var(--ui-link);
+  cursor: pointer;
+  font: inherit;
+  font-weight: 600;
+}
+
+.explorer .explorer-see-more:hover {
+  opacity: 0.85;
+}
+
