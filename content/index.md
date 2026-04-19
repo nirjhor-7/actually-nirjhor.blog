@@ -18,6 +18,13 @@ Unto a long journey ahead — here we go.
 
 ---
 
+## Start here
+- [[All Notes|All wonderings]]
+- [[Verses]]
+- [[Get in Touch]]
+
+---
+
 
 ## Recent Wonderings
 - [[Eid Mubarak!]]
