@@ -8,7 +8,7 @@ html {
   scroll-behavior: smooth;
   text-size-adjust: none;
   overflow-x: hidden;
-  width: 100%;
+  width: 100vw;
 
   @media all and ($mobile) {
     scroll-padding-top: 4rem;
@@ -239,9 +239,6 @@ a {
         display: flex;
         height: unset;
         flex-direction: row;
-        flex-wrap: wrap;
-        width: 100%;
-        justify-content: flex-start;
         padding: 0;
         padding-top: 2rem;
       }
@@ -295,7 +292,7 @@ a {
     & .center,
     & footer {
       max-width: 100%;
-      min-width: 0;
+      min-width: 100%;
       margin-left: auto;
       margin-right: auto;
       @media all and ($tablet) {
