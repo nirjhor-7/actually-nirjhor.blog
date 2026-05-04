@@ -24,6 +24,5 @@ Zayn's new album is cool. Nice vocal experiment. <br>
 I'm looking for a good retreat. <br>
 As the end of my 20 coming to an end, I am looking forward for a better 21. <br>
 You got this! Carpe Diem! <br>
---
 Nirjhor <br>
 May 3rd, 2026
