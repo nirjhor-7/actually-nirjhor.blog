@@ -14,18 +14,19 @@ Trying not to lose myself to the black hole of trivialities by indulging in read
 This is my shrine for thoughts.<br>  
 Unto a long journey ahead — here we go.
 
+.
+.
+.
+
 ---
 
-## Start here
-
-- [[All Notes|All wonderings]]
-- [[Verses]]
-- [[Get in Touch]]
+##                                                        Start here
 
 ---
 
 ## Recent Wonderings
 
+- [[Project Hail Mary & End of another semester]]
 - [[Eid Mubarak!]]
 - [[When]]
 - [[Breath]]
