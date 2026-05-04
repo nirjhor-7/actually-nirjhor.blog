@@ -3,8 +3,8 @@ Wanderer!! <br>
 How's it going for you?<br>
 It's been sometime. Long real time isn't it? <br>
 Time is running like what? Bullet train? <br>
-I thought I would write right after I watched 'Project Hail Mary'. Which was on April 1st. <br>
-Let's dive into it! <br>
+I thought I would write right after I watched 'Project Hail Mary'. Which was on April 1st. But life gets in the way, you get sucked into that gravitational pull & here we are.<br>
+Anyway, Let's dive into it! <br>
 
 'PROJECT HAIL MARY'! <br>
 After EID and the global release of Project Hail Mary, I've been wishing to catch it in the big screen. And that finally happened. I still remember watching the trailer when it got released. I knew from that moment that I am watching that. <br>
