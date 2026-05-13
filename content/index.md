@@ -26,6 +26,7 @@ Unto a long journey ahead — here we go.
 
 ## Recent Wonderings
 
+- [[Happy 20th, Spotify]]
 - [[Project Hail Mary & End of another semester]]
 - [[Eid Mubarak!]]
 - [[When]]
