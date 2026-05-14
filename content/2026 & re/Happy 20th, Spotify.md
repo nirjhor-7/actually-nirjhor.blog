@@ -1,14 +1,14 @@
 Happy 20th Anniversary, Spotify. <br>
 I didn't know we have our birthday in the same month. Cool huh? <br>
-Thanks for the stats. How enchanting it is to know what song I first listened in 2018? <br>
+Thanks for the stats. How enchanting is it to know what song I first listened in 2018? <br>
 Spotify didn't even get released then in Bangladesh. <br>
 It was September 5, 2018. How passionate I was about music and tech. I miss the time ardently. <br>
 Since then I have listened to 9,466 songs , whoa! Not surprised but yeah? <br>
-Audiophile scream! Happy happy hahahaha! <br>
+Audiophile scream! Bingo?  hahahaha! <br>
 Guess the first song I've listened to? <br>
 Natural by Imagine Dragons. <br>
 Most listened artist is Kijugo. A passionate lofi artist. Extra chill, extra cozy. Love your works man! <br>
-I am so glad to see the stats, as I also use [Last.fm](last.fm/user/nirjhor_07) , check you can! hehe; stats freak i know. <br>
+I am so glad to see the stats, as I also use [last.fm](last.fm/user/nirjhor_07) , check you can! hehe; stats freak i know. <br>
 However, another semester, another 4 months, another make it or break it. <br>
 I finally watched, 'THE SECRET LIFE OF WALTER MITTY'. Crazy works by Ben Stiller. I really loved the style and the quirky imagination! & 'SEVERANCE thing too'! IYKYK. <br>
 I am currently listening to ['THE DARK SIDE OF THE MOON'](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv?si=urRhsYK-TVO1TNmPzcVueA) by Pink Floyd, as I am writing this. <br>
