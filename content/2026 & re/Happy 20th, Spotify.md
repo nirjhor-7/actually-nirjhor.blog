@@ -4,7 +4,7 @@ Thanks for the stats. How enchanting is it to know what song I first listened in
 Spotify didn't even get released then in Bangladesh. <br>
 It was September 5, 2018. How passionate I was about music and tech. I miss the time ardently. <br>
 Since then I have listened to 9,466 songs , whoa! Not surprised but yeah? <br>
-Audiophile scream! Bingo?  hahahaha! <br>
+Audiophile scream! Bingo? hahahaha! <br>
 Guess the first song I've listened to? <br>
 Natural by Imagine Dragons. <br>
 Most listened artist is Kijugo. A passionate lofi artist. Extra chill, extra cozy. Love your works man! <br>
@@ -20,19 +20,18 @@ KEEP MOVING FORWARD. <br>
 I will end with two quotes. <br>
 <br>
 
- “I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.”  <br>
+“I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.” <br>
 
 ― Frank Herbert, Dune
 
 <br>
 & <br>
 
- “So therefore I dedicate myself, to my art, my sleep, my dreams, my labors, my suffrances, my loneliness, my unique madness, my endless absorption and hunger because I cannot dedicate myself to any fellow being.”  <br>
+“So therefore I dedicate myself, to my art, my sleep, my dreams, my labors, my suffrances, my loneliness, my unique madness, my endless absorption and hunger because I cannot dedicate myself to any fellow being.” <br>
 
 ― Jack Kerouac <br>
 
-
------
+---
 
 Thanks to you, dear stranger, if you were patient and curious enough to read till this. <br>
 Really appreciate it. <br>

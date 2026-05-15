@@ -20,7 +20,7 @@ Unto a long journey ahead — here we go.
 
 ---
 
-##                                                        Start here
+## Start here
 
 ---
 
