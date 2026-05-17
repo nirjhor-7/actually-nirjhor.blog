@@ -8,7 +8,7 @@ Audiophile scream! Bingo? hahahaha! <br>
 Guess the first song I've listened to? <br>
 Natural by Imagine Dragons. <br>
 Most listened artist is Kijugo. A passionate lofi artist. Extra chill, extra cozy. Love your works man! <br>
-I am so glad to see the stats, as I also use [last.fm](last.fm/user/nirjhor_07) , check you can! hehe; stats freak i know. <br>
+I am so glad to see the stats, as I also use (last.fm/user/nirjhor_07) , check you can! hehe; stats freak i know. <br>
 However, another semester, another 4 months, another make it or break it. <br>
 I finally watched, 'THE SECRET LIFE OF WALTER MITTY'. Crazy works by Ben Stiller. I really loved the style and the quirky imagination! & 'SEVERANCE thing too'! IYKYK. <br>
 I am currently listening to ['THE DARK SIDE OF THE MOON'](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv?si=urRhsYK-TVO1TNmPzcVueA) by Pink Floyd, as I am writing this. <br>
